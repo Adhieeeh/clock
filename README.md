@@ -6,7 +6,7 @@ a modern dark-mode aesthetic.
 
 🚀 Live Demo
 
-Screenshot:
+Screenshot:(screenshot.png)
 
 ✨ Features
 
