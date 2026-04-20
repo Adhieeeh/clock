@@ -5,8 +5,9 @@ This project features a vibrant purple gradient interface with high-contrast han
 a modern dark-mode aesthetic.
 
 🚀 Live Demo
+You can view the live project here: (https://github.com/Adhieeeh/clock.git)
 
-Screenshot:(screenshot.png)
+![Login Page Preview](screenshot.png)
 
 ✨ Features
 
